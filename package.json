@@ -1,0 +1,23 @@
+{
+  "name": "simple-text-tree",
+  "main": "dist/index.js",
+  "description": "Generates simple text trees",
+  "directories": {
+    "lib": "src"
+  },
+  "author": {
+    "name": "BigBrainAFK",
+    "email": "admin@project-sato.net",
+    "url": "http://langhammer.xyz/"
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BigBrainAFK/simple-text-tree"
+  },
+  "homepage": "https://github.com/BigBrainAFK/simple-text-tree",
+  "type": "module",
+  "devDependencies": {
+    "@types/validator": "^13.7.9"
+  }
+}
