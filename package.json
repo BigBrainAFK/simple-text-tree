@@ -3,6 +3,10 @@
   "version": "0.1.1",
   "main": "dist/index.js",
   "description": "Generates simple text trees",
+  "scripts": {
+    "prepare": "npm run build-ts",
+    "build-ts": "tsc"
+  },
   "directories": {
     "lib": "src"
   },
