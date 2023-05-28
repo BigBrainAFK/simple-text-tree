@@ -2,7 +2,7 @@
 
 ### Description
 Generates easy to follow text trees for use in terminals and other text based outputs.
-This project was inspired by [dlic/text-treeview](https://github.com/dlid/text-treeview/tree/master) but I needed a functional TS compatible module.
+This project was inspired by [dlid/text-treeview](https://github.com/dlid/text-treeview/tree/master) but I needed a functional TS compatible module.
 
 ### Example output
 ```
